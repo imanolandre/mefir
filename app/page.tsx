@@ -141,7 +141,7 @@ export default function Home() {
             La mejor atención y el mejor trato, la prioridad siempre eres tú        
             </p>
           </div>
-          <div className="p-12 w-full grid grid-cols-1 md:grid-cols-2 gap-10">
+          <div className="md:p-12 w-full grid grid-cols-1 md:grid-cols-2 gap-10">
             <div className="flex items-center p-4 bg-white rounded-3xl shadow-2xl md:w-[400px]">
               <img src="/images/image1.jpg" alt="Terapia Física" className="sm:w-[100px] sm:h-[100px] w-[70px] h-[70px] rounded-full"/>
               <p className="ml-4 sm:text-[30px] text-[15px] font-medium">Terapia Física</p>
